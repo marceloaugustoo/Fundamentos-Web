@@ -1,0 +1,33 @@
+/*Estilo da página index.html*/
+
+.center{
+    text-align: center;
+}
+.container{
+    display:flex;
+    flex-flow:row;
+    justify-content: center;
+    align-items: center;
+    border:5rad;
+}
+.menu{
+    display: inline;
+    padding: 1rem;
+    
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+}
+.menu hover{
+    color: blueviolet;
+}
+.p30{
+    padding: 2rem;
+}
+.foto{
+    border-radius:10%;
+    
+}
+/*Estilo da página contato.html*/
+
